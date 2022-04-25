@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;}
+.head{
+	width:100%;
+	height:60px;
+	background-color:rgba(198,249,204,1);
+	margin-top:3%;}
+.head .h{
+	height:100%;
+	width:1000px;
+	background-color:rgba(143,240,138,1);
+	margin-left:16%;}
+.big{
+	width:1000px;
+	height:400px;
+	background-color:rgba(143,240,138,1);
+	margin-left:16%;
+	margin-top:10px;}
+.big2{
+	width:1000px;
+	height:400px;
+	margin-left:16%;
+	margin-top:10px;}
+.long{
+	width:300px;
+	height:400px;
+	background-color:rgba(105,235,108,1);
+	float:left;
+	}
+.width{
+	width:340px;
+	height:195px;
+	float:left;
+	background-color:rgba(141,254,203,1);
+	margin-left:10px;}
+.l{
+	margin-top:10px;}
+.l1{
+	margin-top:10px;}
